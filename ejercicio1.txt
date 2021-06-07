@@ -1,0 +1,7 @@
+Algoritmo sin_titulo
+	Escribir "ingrese 2 numeros"
+	leer n1 
+	Leer n2
+	n3 = n1 + n2
+	Escribir "La suma de  ", n1  " + " , n2  "  es igual a ", n3  
+FinAlgoritmo
