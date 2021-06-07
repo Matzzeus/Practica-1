@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	Escribir "escriba el capital de un país"
+	leer cap
+	Escribir "escriba el nombre del país, correspondiente al capital escrito anteriormente"
+
+	leer país
+	escribir cap , "es la capital de ", país
+FinAlgoritmo
