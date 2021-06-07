@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	Escribir "ingres un digito en cm"
+	leer n1
+	si n1 > 0 Entonces
+		yar = n1 / 91.44
+		m = n1 / 100
+		pie = n1 / 30.48
+		pul = n1 / 2.54
+		escribir "la unidad en yarda es: ", yar 
+		escribir "la unidad en metro es: ", m
+		escribir "la unidad en pie es: ", pie
+		escribir "la unidad en pulgada es: ", pul
+	FinSi
+FinAlgoritmo
