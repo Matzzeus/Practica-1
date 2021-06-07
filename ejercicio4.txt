@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	Escribir "Ingrese un numero positivo"
+	Leer n1
+	n2 = n1 * n1
+	n3 = n1*n1*n1
+	Escribir "el cuadrado de ",n1, " es ",n2
+	Escribir "el cubo de ",n1, " es ",n3
+FinAlgoritmo
