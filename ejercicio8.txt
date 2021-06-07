@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	Escribir "ingrese 3 numeros positivos"
+	leer n1
+	leer n2
+	leer n3
+
+		promedio = (n1 + n2 + n3) / 3
+		Escribir "el promedio es ", promedio
+FinAlgoritmo
