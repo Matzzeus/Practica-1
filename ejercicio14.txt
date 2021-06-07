@@ -1,0 +1,17 @@
+Algoritmo sin_titulo
+	Escribir "ingrese 2 numeros"
+	leer n1
+	leer n2
+	si n1  > 0 y n2 > 0 Entonces
+		div = n2/n1
+		
+		si div > 0 Entonces
+			Escribir "si es divisible y el rsultado es ", div
+		SiNo
+			
+		Escribir "no es divisible y el rsultado es ", div
+		
+	FinSi
+FinSi
+
+FinAlgoritmo
