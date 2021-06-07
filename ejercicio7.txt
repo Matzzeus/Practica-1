@@ -1,0 +1,5 @@
+Algoritmo sin_titulo
+	n1 =  10 + azar(40) 
+	n2 = n1 * 0.15
+	Escribir "el numero aleatorio es ", n1, "  con la resta del 15% es ", n2
+FinAlgoritmo
