@@ -1,0 +1,6 @@
+Algoritmo sin_titulo
+	escribir "ingreingrese una temperatura en celsius"
+	leer temp
+	fa = (temp * 9/5) + 32
+	Escribir "la temperatura en fhare.. es " , fa
+FinAlgoritmo
