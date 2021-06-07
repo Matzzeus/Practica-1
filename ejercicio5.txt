@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Escribir "ingrese un numero  positivo"
+	leer n1
+	Si n1  > 0 Entonces
+		n2 = n1 + 1
+		Escribir "El numero siguente de " ,n1, " es ",n2
+	SiNo
+		Escribir "ingrese un numero positivo"
+		
+	Fin Si
+	
+FinAlgoritmo
