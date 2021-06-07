@@ -1,0 +1,14 @@
+Algoritmo sin_titulo
+	Escribir "ingrese un numero"
+	leer n1
+	si n1 = 0 Entonces
+		Escribir "el valor es nulo ", n1
+	FinSi
+	si n1 > 0 Entonces
+		escribir "el numero es positivo  y es ", n1
+		
+	FinSi
+	si n1 < 0 Entonces
+		Escribir " el numero es negativo y es " , n1
+	FinSi
+FinAlgoritmo
