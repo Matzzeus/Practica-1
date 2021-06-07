@@ -1,0 +1,10 @@
+Algoritmo sin_titulo
+	Escribir " ingrese una palabras"
+	Escribir " ingrese una palabras"
+	
+	leer p1
+	leer p2
+	p3 = p2
+	
+	Escribir "las palabras son  ",  p3  ,   p1
+FinAlgoritmo
