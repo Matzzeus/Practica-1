@@ -1,0 +1,6 @@
+Algoritmo sin_titulo
+	n1 = azar(200)
+	n2 =(n1 * 0.30) + n1
+	
+	Escribir "el numero a la es ", n1, " y mas el 30% es igual a ",n2
+FinAlgoritmo
