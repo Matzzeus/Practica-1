@@ -1,0 +1,13 @@
+Algoritmo sin_titulo
+	Escribir "ingrese un radio y una altura mayor a 0"
+	leer r
+	leer  h
+	si r > 0 y r > 0 Entonces
+		v = (PI * (r*r) * h)
+		Escribir "el volumen del cilindro es " , v , " unidades cubicas"
+	SiNo
+		
+		Escribir " ingrese numeros positivos "
+	FinSi
+	
+FinAlgoritmo
