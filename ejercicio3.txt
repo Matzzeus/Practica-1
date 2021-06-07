@@ -1,0 +1,11 @@
+Algoritmo sin_titulo
+	Escribir "ingrese 2 numeros positivos"
+	Leer n1
+	Leer n2
+	doble1 = n1 *2
+	doble2 = n2 *2
+	triple1 = n1*3
+	triple2 = n2*3
+	Escribir "El numero", n1 , "tiene como doble ",  doble1 , " y el triple es ", triple1
+	Escribir "El numero", n2 , "tiene como doble ",  doble2 , " y el triple es ", triple2
+FinAlgoritmo
