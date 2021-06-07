@@ -1,0 +1,13 @@
+Algoritmo sin_titulo
+	Escribir " ingrese una Altura positiva"
+	Escribir " ingrese una base positiva"
+	leer h
+	leer b
+	si b > 0 y h > 0 Entonces
+		area  = b * h
+		peri = (2*b + 2*h)
+		Escribir " el área del rectangulo es " , area " u cuadradas " " y perimetro del rectangulo es ", peri " unidades"
+		
+	FinSi
+	
+FinAlgoritmo
